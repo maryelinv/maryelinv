@@ -4,7 +4,7 @@
 ⚒️ I’m currently working on [aerialysta](https://aerialysta.com/)  
   
 
-📖 I’m currently learning astro, docker and UI/UX  
+📖 I’m currently learning software architecture and UI/UX
   
 
 🎪 Fun fact: I'm also a circus artist and I can speak 5 languages 🗺️  

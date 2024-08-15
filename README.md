@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=maryelinv&show_icons=true&theme=darkcount_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=maryelinv&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

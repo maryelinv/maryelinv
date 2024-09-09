@@ -78,24 +78,3 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=maryelinv&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
-    
-
-<br/>  
-
-<div align="left">
-            <a href="https://paypal.me/maryelinram" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/maryelin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />

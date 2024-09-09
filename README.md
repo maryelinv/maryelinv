@@ -8,16 +8,11 @@
   
 
 🎪 Fun fact: I'm also a circus artist and I can speak 5 languages 🗺️  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
@@ -33,8 +28,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
@@ -44,8 +37,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Other  
 <div align="center">  
@@ -59,12 +50,8 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
-
-
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/maryelinv" target="_blank">

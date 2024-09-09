@@ -1,10 +1,10 @@
-### **Hi, I'm Maryelin | welcome to my corner of ideas 🕯️**  
+## **Hi, I'm Maryelin | welcome to my corner of ideas 🕯️**  
 ⚒️ I’m currently working on [aerialysta](https://aerialysta.com/)
 📖 I’m currently learning software architecture and UI/UX
 🎪 Fun fact: I'm also a circus artist and I can speak 5 languages 🗺️  
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  

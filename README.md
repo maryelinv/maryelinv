@@ -10,7 +10,7 @@ With 3+ years of experience across a range of technologies and programming langu
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
 ## Key Projects 📚
-- **[Aerialysta](https://github.com/maryelinv/aerialysta-site):** Leading Aerial Arts platform for circus performer, learners and enthusiasts.
+- **[Aerialysta](https://github.com/maryelinv/aerialysta-site):** Leading Aerial Arts platform for circus performers, learners and enthusiasts.
 - **[Travelo](https://github.com/maryelinv/travelo-site):** Mobile & Web Application to connect local eco-tours guides and people.
 - **[CompuMed](https://github.com/maryelinv/compu-med-site):** Medical Web Platform for Doctors to manage their patients history efficiently.
 - **[CodedbyMar Extension Pack](https://github.com/maryelinv/codedbymar-extension-pack):** Compiling essential VS Code extensions I use to enhance coding efficiency.

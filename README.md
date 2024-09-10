@@ -1,7 +1,6 @@
 👋 Hi, I'm Maryelin Ramirez! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
-I diving into ideas and bringing them to life 🌱
 With 3+ years of experience across a range of technologies and programming languages, I perform impeccably in frontend and backend web development🚀
 
 ## Technical Skills 🛠️

@@ -1,46 +1,33 @@
-👋 Hi, I’m Maryelin Ramirez!
-I’m a passionate software engineer who loves building tech that makes a real difference—whether it's elevating the world of aerial arts, connecting people with nature, or creating digital tools that empower others.
+👋 Hi, I'm Maryelin Ramirez! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
-💻 About Me
-With over 4 years of experience in full-stack development, I bring a sharp eye for design, a solid technical foundation, and a creative approach to problem-solving. I work confidently across both frontend and backend technologies and love turning ideas into high-impact digital products.
+## About Me
+With 4+ years of experience across a range of technologies and programming languages, I perform impeccably in frontend and backend web development🚀
 
-🛠️ Tech Stack
-Languages: JavaScript, TypeScript, Python
+## Technical Skills 🛠️
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** React, Next.js, Node.js, Angular
+- **Tools & Platforms:** GitHub, Docker, AWS, DigitalOcean 
+- **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
-Frameworks & Libraries: React, Next.js, Node.js, Angular
+## Key Projects 📚
+- **[Aerialysta](https://github.com/maryelinv/aerialysta-site):** Leading Aerial Arts platform for circus performers, learners and enthusiasts.
+- **[ToursApp](https://github.com/maryelinv/travelo-site):** Mobile & Web Application to connect local eco-tours guides and people.
+- **[CompuMed](https://github.com/maryelinv/compu-med-site):** Medical Web Platform for Doctors to manage their patients history efficiently.
+- **[CodedbyMar Extension Pack](https://github.com/maryelinv/codedbymar-extension-pack):** Compiling essential VS Code extensions I use to enhance coding efficiency.
+- **[CodedbyMar VS Code Theme](https://github.com/maryelinv/codedbymar-vs-code-theme):** Designing a custom Visual Studio Code theme.
 
-Cloud & DevOps: GitHub, Docker, AWS, DigitalOcean
+You can view these and more [here](https://maryelinv.github.io/#).
 
-AI & Data: Experience in machine learning concepts and data analysis, especially applied to education and community platforms
+## Leadership & Advocacy 🌟
+- **Aerialysta:** As the Founder, I have transformed the aerial arts community by integrating advanced technology and data analytics to share the wonders of aerial arts with the words and serve as a tool for the community.
+- **Community Engagement:** Built a robust community of arial artists, learners and enthusiasts. 🤝
 
-🚀 Projects I’m Proud Of
-Aerialysta: My proudest creation—an aerial arts platform empowering circus artists and enthusiasts with resources, training content, and community.
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-ToursApp: A nature-first travel app connecting people with eco-tourism experiences and local guides.
+## Connect with Me 📬
+- 📫 [Email](mailto:maryelinram@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maryelinv/)
 
-CompuMed: A digital health solution for doctors to manage and organize patient histories.
-
-CodedbyMar Extension Pack: My go-to collection of VS Code extensions for peak productivity.
-
-CodedbyMar VS Code Theme: A custom-designed theme that matches my aesthetic and coding flow.
-
-🔗 See more projects at maryelinv.github.io
-
-🌟 Leadership & Community
-Founder of Aerialysta: Built a tech-powered platform to uplift the aerial arts community with tools, analytics, and connection.
-
-Community Builder: Actively growing a space for artists, learners, and creators to thrive—both online and offline.
-
-🎯 What Drives Me
-Creating With Purpose: I thrive on building tech that solves real-world problems and creates space for creativity, freedom, and growth.
-
-Lifelong Learning: Always upskilling—whether it’s new frameworks, design patterns, or AI—I'm committed to evolving as a dev and a leader.
-
-Freedom Through Code: My long-term mission? Building my own software company, empowering others, and living life on my terms.
-
-📬 Let’s Connect
-✉️ Email me
-
-💼 LinkedIn
-
-If you're into meaningful tech, creative projects, or want to collaborate on something exciting—reach out. I’d love to connect! 🌱
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍

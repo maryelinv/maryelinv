@@ -1,7 +1,7 @@
 👋 Hi, I'm Maryelin Ramirez! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
-With 3+ years of experience across a range of technologies and programming languages, I perform impeccably in frontend and backend web development🚀
+With 4+ years of experience across a range of technologies and programming languages, I perform impeccably in frontend and backend web development🚀
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Python
@@ -16,7 +16,7 @@ With 3+ years of experience across a range of technologies and programming langu
 - **[CodedbyMar Extension Pack](https://github.com/maryelinv/codedbymar-extension-pack):** Compiling essential VS Code extensions I use to enhance coding efficiency.
 - **[CodedbyMar VS Code Theme](https://github.com/maryelinv/codedbymar-vs-code-theme):** Designing a custom Visual Studio Code theme.
 
-You can view these and more [here](https://jeromehardaway.github.io/#).
+You can view these and more [here](https://maryelinv.github.io/#).
 
 ## Leadership & Advocacy 🌟
 - **Aerialysta:** As the Founder, I have transformed the aerial arts community by integrating advanced technology and data analytics to share the wonders of aerial arts with the words and serve as a tool for the community.
